@@ -1,1 +1,3 @@
-# Vaalikone-2.0
+# Vaalikone
+
+School project vaalikone. 
