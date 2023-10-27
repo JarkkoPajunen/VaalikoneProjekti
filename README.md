@@ -3,7 +3,7 @@ Project Description
 This project encompassed the development of an election machine system, with a focus on both frontend and backend components. The backend, implemented with JSP, housed a database for registering candidate information. The frontend, designed with HTML, provided a user-friendly interface for accessing and displaying candidate details. The database was set up locally using MySQL, ensuring a seamless integration between the data storage and the interactive user interface.
 
 Technologies Used
-Backend: JSP (Java Server Pages)
+Backend: JSP
 Database: MySQL (Local Setup)
 Frontend: HTML
 
